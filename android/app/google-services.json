@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "685485412807",
+    "firebase_url": "https://caramel-logic-361912-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "caramel-logic-361912",
+    "storage_bucket": "caramel-logic-361912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685485412807:android:9022ee15c86bf39197c9e2",
+        "android_client_info": {
+          "package_name": "com.example.google_mao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685485412807-0vgt2nc28ecgbhst6khjmat59tnlmdo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsrv2KQeRzlfCQGQfHK_sSdQdxtTm3sHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685485412807-0vgt2nc28ecgbhst6khjmat59tnlmdo8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
